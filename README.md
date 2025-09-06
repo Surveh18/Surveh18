@@ -60,7 +60,7 @@
 - 🔄 React.js for modern frontend development
 - 🔄 Microservices architecture with Django
 - 🔄 MLOps and model monitoring in production
-- 
+  
 ---
 
 ## Connect with Me
