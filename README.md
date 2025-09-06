@@ -60,17 +60,7 @@
 - 🔄 React.js for modern frontend development
 - 🔄 Microservices architecture with Django
 - 🔄 MLOps and model monitoring in production
-
----
-
-## Stats
-<!-- Stats card by anuraghazra/github-readme-stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Surveh18&show_icons=true&theme=radical&count_private=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surveh18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Surveh18&theme=radical)](https://git.io/streak-stats)
-
+- 
 ---
 
 ## Connect with Me
